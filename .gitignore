@@ -1,0 +1,15 @@
+
+.env
+
+#data
+#heavy files
+
+# pychache
+__pycache__/
+*cpython-37.pyc
+/*pyc/
+*.pyc
+*.cpython-37.pyc
+
+# Mac DS_Store files
+*.DS_Store
