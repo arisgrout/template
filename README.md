@@ -1,5 +1,5 @@
-[![builing_status]()
-[![testing_status]()
+[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+
 
 # Name of project
 ## Objective
